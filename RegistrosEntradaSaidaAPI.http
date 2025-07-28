@@ -1,0 +1,6 @@
+@RegistrosEntradaSaidaAPI_HostAddress = http://localhost:5181
+
+GET {{RegistrosEntradaSaidaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
